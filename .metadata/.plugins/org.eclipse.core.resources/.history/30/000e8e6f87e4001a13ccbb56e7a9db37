@@ -1,0 +1,5 @@
+package me.whiteship.demospringsecurityform.accout;
+
+public class AccountControllerTest {
+
+}

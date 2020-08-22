@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AccountControllerTest" project="demo-spring-security-form" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="me.whiteship.demospringsecurityform.accont.AccountControllerTest" time="0.347">
+    <testcase name="index_anonymous" classname="me.whiteship.demospringsecurityform.accont.AccountControllerTest" time="0.339"/>
+    <testcase name="index_user" classname="me.whiteship.demospringsecurityform.accont.AccountControllerTest" time="0.008"/>
+  </testsuite>
+</testrun>

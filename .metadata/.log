@@ -740,3 +740,123 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:17:30.812
 !MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:11.057
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:11.059
+!MESSAGE classpath=105 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:11.059
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 105
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:11.060
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:11.064
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:36.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:36.852
+!MESSAGE classpath=105 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:36.853
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 105
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:36.853
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:42:36.855
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:07.429
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:07.430
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:07.431
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:07.431
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:07.438
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:10.619
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:10.621
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:10.622
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:10.622
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 22:43:10.627
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:23.174
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:23.176
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:23.182
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:23.186
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:23.191
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:25.349
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:25.350
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:25.351
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:25.351
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:52:25.354
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:56:53.505
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:56:53.506
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:56:53.507
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:56:53.508
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:56:53.515
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:58:27.228
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:58:27.229
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:58:27.230
+!MESSAGE buffering callback sts4.classpath.zHuqomGS demo-spring-security-form false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:58:27.230
+!MESSAGE executing callback sts4.classpath.zHuqomGS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-22 23:58:27.236
+!MESSAGE executing callback sts4.classpath.zHuqomGS SUCCESS [done]
