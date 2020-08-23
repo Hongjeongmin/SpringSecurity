@@ -1,5 +1,8 @@
 package me.whiteship.demospringsecurityform.form;
 
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
 import me.whiteship.demospringsecurityform.accont.Account;
@@ -15,9 +18,19 @@ public class SampleService {
 //		Collection<? extends GrantedAuthority> authorities = authentication.getAuthorities();
 //		Object credentials = authentication.getCredentials();
 //		boolean authenticated = authentication.isAuthenticated();
-		
+
+		// Thread에서 가져와서 쓴다.
 		Account account = AccountContext.getAccount();
+
+		// 아니면 그냥 꺼내쓴다. 스레드 로컬을 쓸필요가없
+		Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+		UserDetails userDetails = (UserDetails) authentication.getPrincipal();
+		
+		
 		System.out.println("==========");
+		// 두개가 같은 효과임 스레드 로컬 안만들고 authetication 에서 받아서 쓴다. 
+		// 한번 인증된 사용자는 똑같은 authetication 해시맵이 똑같음..
 		System.out.println(account.getUsername());
+		System.out.println(userDetails.getUsername());
 	}
 }
