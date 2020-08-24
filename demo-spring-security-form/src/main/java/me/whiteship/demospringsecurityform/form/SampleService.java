@@ -1,5 +1,6 @@
 package me.whiteship.demospringsecurityform.form;
 
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -7,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import me.whiteship.demospringsecurityform.accont.Account;
 import me.whiteship.demospringsecurityform.accont.AccountContext;
+import me.whiteship.demospringsecurityform.common.SecurityLogger;
 
 @Service
 public class SampleService {
@@ -32,5 +34,13 @@ public class SampleService {
 		// 한번 인증된 사용자는 똑같은 authetication 해시맵이 똑같음..
 		System.out.println(account.getUsername());
 		System.out.println(userDetails.getUsername());
+	}
+	
+	@Async
+	public void asyncService() {
+		// TODO Auto-generated method stub
+		SecurityLogger.log("Async Service");
+		System.out.println("Async service is called");
+		
 	}
 }
